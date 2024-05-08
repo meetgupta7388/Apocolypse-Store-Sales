@@ -36,8 +36,5 @@ To get started with the project, follow these steps:
 
 ## Contributors
 
-- [Your Name]
+- Meet Gupta
 
-## License
-
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
