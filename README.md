@@ -50,4 +50,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 
 
-Feel free to customize this README with your personal details and any additional information relevant to your project.
